@@ -14,3 +14,5 @@
 <a href="http://naver.me/FY7xdD9S">네이버지도 열기</a> 
 
 <a href="http://kko.to/6PJAvdoYo">카카오지도 열기</a> 
+
+<a href="https://maps.app.goo.gl/MusDVmdNiSjc2Sxw9">구글지도 열기</a> 
